@@ -7,9 +7,11 @@
   "directories": {
     "output": "release/${version}"
   },
+  "icon": "buttonImage/startup.png",
   "files": [
     "dist",
-    "dist-electron"
+    "dist-electron",
+    "buttonImage"
   ],
   "mac": {
     "target": [
