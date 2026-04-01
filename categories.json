@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "id": "coding",
+      "name": "Coding",
+      "icon": "coding-removebg-preview.png",
+      "programs": [
+        {
+          "name": "Spotify",
+          "location": "explorer.exe spotify:"
+        },
+        {
+          "name": "VS Code",
+          "location": "cmd /c start \"\" \"C:\\Users\\Asus\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\""
+        },
+        {
+          "name": "Lofi Chill Game",
+          "location": "cmd /c start steam://rungameid/3548580"
+        },
+        {
+          "name": "Claude",
+          "location": "start chrome --profile-directory=\"Profile 1\" https://claude.ai"
+        }
+      ]
+    },
+    {
+      "id": "game",
+      "name": "Game",
+      "icon": "game-removebg-preview.png",
+      "programs": [
+        {
+          "name": "Spotify",
+          "location": "explorer.exe spotify:"
+        },
+        {
+          "name": "Discord",
+          "location": "start discord://"
+        },
+        {
+          "name": "Bilibili",
+          "location": "start chrome --profile-directory=\"Profile 3\" https://www.bilibili.com/"
+        },
+        {
+          "name": "Steam",
+          "location": "cmd /c start \"\" \"C:\\Users\\Asus\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Steam.lnk\""
+        }
+      ]
+    },
+    {
+      "id": "study",
+      "name": "Study",
+      "icon": "study-removebg-preview.png",
+      "programs": [
+        {
+          "name": "Taylor's Portal",
+          "location": "start chrome --profile-directory=\"Profile 3\" https://mytimes.taylors.edu.my/login/index.php"
+        }
+      ]
+    }
+  ]
+}
